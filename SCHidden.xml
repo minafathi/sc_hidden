@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="system" method="upgrade">
+        <name>SCHidden</name>
+        <author>mojtaba naserei</author>
+        <creationDate>Aug 2015</creationDate>
+        <copyright>seocommunity.ir</copyright>
+        <license>http://www.gnu.org/licenses/gpl-3.0.en.html</license>
+        <authorEmail>mojtaba.naserei@yahoo.com</authorEmail>
+        <authorUrl>http://www.seocommunity.ir</authorUrl>
+        <version>2.3.0</version>
+        <description>SC_DESC</description>
+        <files>
+                <filename plugin="SCHidden">SCHidden.php</filename>
+                <filename plugin="SCHidden">index.html</filename>
+        </files>
+          <languages>
+           <language tag="en-GB">language/en-GB/en-GB.plg_system_SCHidden.ini</language>
+	       <language tag="en-GB">language/en-GB/en-GB.plg_system_SCHidden.sys.ini</language>
+           <language tag="fa-IR">language/fa-IR/fa-IR.plg_system_SCHidden.ini</language>
+	       <language tag="fa-IR">language/fa-IR/fa-IR.plg_system_SCHidden.sys.ini</language>
+	     </languages>
+        <config>
+		 <fields name="params">
+			<fieldset name="basic">
+				<field name="msg" type="text" default="Please enter your code or content" label="SCHIDDEN_MSG_LABEL" description="SCHIDDEN_MSG_DESC" size="50" />
+				<field name="name_link" type="text" default="Sign to see the content" label="SCHIDDEN_LINK_NAME_LABEL" description="SCHIDDEN_LINK_NAME_DESC" size="30" />
+				<field name="addr_link" type="text" default="www.example.com" label="SCHIDDEN_LINK_ADDRESS_LABEL" description="SCHIDDEN_LINK_ADDRESS_DESC" size="15" />
+			</fieldset>
+		 </fields>
+       </config>
+
+</extension>

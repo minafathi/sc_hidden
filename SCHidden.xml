@@ -8,7 +8,32 @@
         <authorEmail>mojtaba.naserei@yahoo.com</authorEmail>
         <authorUrl>http://www.seocommunity.ir</authorUrl>
         <version>2.3.0</version>
-        <description>SC_DESC</description>
+        <description>
+          
+ <![CDATA[
+<div align="center">
+            <div class="alert alert-success" style="background-color:#edf4ff;border-color:#a0c7ff;color: #0088CC;padding: 10px; font-family:tahoma; font-size:12px; font-weight:normal;">
+            <h4>
+            <a href="https://github.com/shahryarjb" style="font-family:tahoma; font-size:15px; font-weight:normal;">گیت هاب ترانگل</a> | 
+            <a href="https://trangell.com" style="font-family:tahoma; font-size:15px; font-weight:normal;">وب سایت ترانگل</a> | 
+            <a href="https://trangell.com/blog/2-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%DA%AF%D8%B1%D9%88%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AA%D8%B1%D8%A7%D9%86%DA%AF%D9%84" style="font-family:tahoma; font-size:15px; font-weight:normal;">درباره ما </a> |
+            <a href="https://trangell.com/blog/6-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C" style="font-family:tahoma; font-size:15px; font-weight:normal;">خدمات افزونه نویسی </a>        <br>
+            </h4>
+            <div>
+            <br/>
+            <br/>
+            <br/>
+            <span style="color:#2C8C42;font-size:20px">پلاگین مخفی کننده متن</span>            <br/>
+            <br/>
+            <br/>
+            <img style="width:336px;height:280px;margin-left:auto;margin-right:auto;" src="https://trangell.com/images/header-blogo.png">
+            </div>
+            <style>table.adminform{width: 100%;}</style>
+            </div>
+]]>
+
+
+        </description>
         <files>
                 <filename plugin="SCHidden">SCHidden.php</filename>
                 <filename plugin="SCHidden">index.html</filename>
